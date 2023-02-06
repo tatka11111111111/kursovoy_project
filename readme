@@ -7,8 +7,8 @@
  Запускаем pycharm создаем новый проект.
  Cоздадим каталог для нашего бота и сохраним там два файла: bot.py и config.py.
 Открываем и записываем туда токен, полученный от @BotFather:
-TOKEN = 5968347444:AAELkETNU2oma1FMMadxNRdHqlwWJHigqlU
-и api accuweather 'lGztgN5bdl8NwDg75TiEbD6iYektgvUv'
+TOKEN = ''
+и api accuweather ''
 
  Теперь возьмемся за основной файл - приступаем к редактированию файла bot.py. Для этого импортируем необходимые модули
  библиотеки.
